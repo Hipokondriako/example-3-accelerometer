@@ -1,5 +1,5 @@
 {
-    "name": "Example 3: Accelerometer",
+    "name": "Example: Accelerometer",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -17,5 +17,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
